@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App - Go 4all</string>
+    <string name="info">This is how the app works: when the main button is pressed, the current time stamp (in UNIX format) is shown on the screen, the last digit of the time stamp is verified and the background color is updated according to it\'s value.</string>
+</resources>
